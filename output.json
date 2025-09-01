@@ -1,0 +1,246 @@
+[
+    {
+        "ip": "162.247.241.14",
+        "latitude": 37.7913,
+        "longitude": -122.393,
+        "city": "San Francisco",
+        "country": "United States"
+    },
+    {
+        "ip": "239.255.255.250",
+        "error": "Location not found"
+    },
+    {
+        "ip": "104.18.26.90",
+        "latitude": 43.6532,
+        "longitude": -79.3832,
+        "city": "Toronto",
+        "country": "Canada"
+    },
+    {
+        "ip": "35.157.84.5",
+        "latitude": 50.1109,
+        "longitude": 8.68213,
+        "city": "Frankfurt am Main",
+        "country": "Germany"
+    },
+    {
+        "ip": "140.82.113.25",
+        "latitude": 37.7823,
+        "longitude": -122.391,
+        "city": "San Francisco",
+        "country": "United States"
+    },
+    {
+        "ip": "108.156.22.6",
+        "latitude": 60.1699,
+        "longitude": 24.9384,
+        "city": "Helsinki",
+        "country": "Finland"
+    },
+    {
+        "ip": "52.123.135.22",
+        "latitude": 52.3667,
+        "longitude": 4.9,
+        "city": "Amsterdam",
+        "country": "Netherlands"
+    },
+    {
+        "ip": "104.21.16.1",
+        "latitude": 43.6532,
+        "longitude": -79.3832,
+        "city": "Toronto",
+        "country": "Canada"
+    },
+    {
+        "ip": "20.189.173.1",
+        "latitude": 37.783,
+        "longitude": -122.417,
+        "city": "San Francisco",
+        "country": "United States"
+    },
+    {
+        "ip": "108.156.22.90",
+        "latitude": 60.1699,
+        "longitude": 24.9384,
+        "city": "Helsinki",
+        "country": "Finland"
+    },
+    {
+        "ip": "20.42.65.85",
+        "latitude": 36.677696,
+        "longitude": -78.37471,
+        "city": "Boydton",
+        "country": "United States"
+    },
+    {
+        "ip": "172.20.10.3",
+        "error": "Location not found"
+    },
+    {
+        "ip": "140.82.121.5",
+        "latitude": 50.1169,
+        "longitude": 8.6837,
+        "city": "Frankfurt am Main",
+        "country": "Germany"
+    },
+    {
+        "ip": "35.174.127.31",
+        "latitude": 39.0438,
+        "longitude": -77.4874,
+        "city": "Ashburn",
+        "country": "United States"
+    },
+    {
+        "ip": "224.0.0.251",
+        "error": "Location not found"
+    },
+    {
+        "ip": "216.58.210.130",
+        "latitude": 40.5219,
+        "longitude": -111.9391,
+        "city": "Riverton",
+        "country": "United States"
+    },
+    {
+        "ip": "54.170.97.157",
+        "latitude": 53.3498,
+        "longitude": -6.26031,
+        "city": "Dublin",
+        "country": "Ireland"
+    },
+    {
+        "ip": "20.50.88.241",
+        "latitude": 52.3667,
+        "longitude": 4.9,
+        "city": "Amsterdam",
+        "country": "Netherlands"
+    },
+    {
+        "ip": "13.107.4.254",
+        "latitude": 43.6532,
+        "longitude": -79.3832,
+        "city": "Toronto",
+        "country": "Canada"
+    },
+    {
+        "ip": "34.158.1.133",
+        "latitude": 37.4225,
+        "longitude": -122.085,
+        "city": "Mountain View",
+        "country": "United States"
+    },
+    {
+        "ip": "216.24.57.4",
+        "latitude": 37.7775,
+        "longitude": -122.397,
+        "city": "San Francisco",
+        "country": "United States"
+    },
+    {
+        "ip": "52.4.168.106",
+        "latitude": 39.0438,
+        "longitude": -77.4874,
+        "city": "Ashburn",
+        "country": "United States"
+    },
+    {
+        "ip": "204.79.197.222",
+        "latitude": 45.5019,
+        "longitude": -73.5674,
+        "city": "Montreal",
+        "country": "Canada"
+    },
+    {
+        "ip": "140.82.113.21",
+        "latitude": 37.7823,
+        "longitude": -122.391,
+        "city": "San Francisco",
+        "country": "United States"
+    },
+    {
+        "ip": "63.140.62.27",
+        "latitude": 50.8748,
+        "longitude": 4.40339,
+        "city": "Evere",
+        "country": "Belgium"
+    },
+    {
+        "ip": "13.69.109.131",
+        "latitude": 52.3667,
+        "longitude": 4.9,
+        "city": "Amsterdam",
+        "country": "Netherlands"
+    },
+    {
+        "ip": "3.77.249.83",
+        "latitude": 50.1109,
+        "longitude": 8.68213,
+        "city": "Frankfurt am Main",
+        "country": "Germany"
+    },
+    {
+        "ip": "140.82.121.4",
+        "latitude": 50.1169,
+        "longitude": 8.6837,
+        "city": "Frankfurt am Main",
+        "country": "Germany"
+    },
+    {
+        "ip": "34.253.35.116",
+        "latitude": 53.3498,
+        "longitude": -6.26031,
+        "city": "Dublin",
+        "country": "Ireland"
+    },
+    {
+        "ip": "104.21.112.1",
+        "latitude": 43.6532,
+        "longitude": -79.3832,
+        "city": "Toronto",
+        "country": "Canada"
+    },
+    {
+        "ip": "172.20.10.15",
+        "error": "Location not found"
+    },
+    {
+        "ip": "95.217.197.179",
+        "latitude": 60.1719,
+        "longitude": 24.9347,
+        "city": "Helsinki",
+        "country": "Finland"
+    },
+    {
+        "ip": "185.199.108.154",
+        "latitude": 33.3555,
+        "longitude": -86.8274,
+        "city": "Hoover",
+        "country": "United States"
+    },
+    {
+        "ip": "172.20.10.1",
+        "error": "Location not found"
+    },
+    {
+        "ip": "104.21.48.1",
+        "latitude": 43.6532,
+        "longitude": -79.3832,
+        "city": "Toronto",
+        "country": "Canada"
+    },
+    {
+        "ip": "103.90.86.250",
+        "latitude": 27.6915,
+        "longitude": 85.3196,
+        "city": "Kathmandu",
+        "country": "Nepal"
+    },
+    {
+        "ip": "20.119.174.243",
+        "latitude": 36.677696,
+        "longitude": -78.37471,
+        "city": "Boydton",
+        "country": "United States"
+    }
+]
